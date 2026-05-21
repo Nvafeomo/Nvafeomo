@@ -16,8 +16,8 @@ I'm a full‑stack software engineer passionate about building reliable backend 
 ## 📫 How to Reach Me
 - Email: [nvafeomo05@gmail.com](mailto:nvafeomo05@gmail.com)  
 - LinkedIn: [Nvafeomo Konneh](https://www.linkedin.com/in/nvafeomo-konneh-a6a1a9367/)  
-- Portfolio: [nvafeomo.github.io/Portfolio-Website](https://nvafeomo.github.io/Portfolio-Website/)  
+- Portfolio: [nvafeomo.github.io/Portfolio-Website](https://portfolio-website-woad-zeta-36.vercel.app/)  
 
 ---
 
-⭐ *Always learning, always building — currently focused on backend systems, cloud computing, and distributed architectures.*
+⭐ *Always learning, always building — currently focused on backend systems, cloud computing, and distributed systems.*
