@@ -3,14 +3,18 @@
 I'm an aspring software engineer passionate about building reliable backend systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work.
 
 ## What I'm Currently Working On
-- Developing **RimRun**, a React Native app that helps players find basketball courts and connect with others.  
-- Building **OpsFlow**, an enterprise‑grade incident management and workflow automation system using **Spring Boot**, **React**, and **PostgreSQL**. It includes AI‑assisted classification, SLA tracking, and cloud deployment across **Render**, **Supabase**, and **Vercel**.
+- Developing **RimRun**, a **React Native** frontend and **Supabase** backend app that helps players find basketball courts and connect with others.  
+- Building **OpsFlow**, an incident management and workflow automation system using **Spring Boot**, **React**, and **PostgreSQL**. It includes AI‑assisted classification, SLA tracking, and cloud deployment across **Render**, **Supabase**, and **Vercel**.
 
 ## Tools & Technologies
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
+
 **Frameworks:** Spring Boot, React, React Native, Express, TailwindCSS  
+
 **Databases:** PostgreSQL, Supabase  
+
 **DevOps:** Docker, Git, CI/CD, AWS, Render, Vercel  
+
 **Other:** Agile/Scrum, REST APIs, Linux
 
 ## A Bit About Me
