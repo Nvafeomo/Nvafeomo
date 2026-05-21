@@ -15,8 +15,11 @@ I'm an aspring software engineer passionate about building reliable backend syst
 
 ## A Bit About Me
 🏀 I like playing basketball and working out  
+
 🎧 I enjoy listening to audiobooks, reading fantasy novels, and I sometimes read nonfiction pieces. 
+
 🎴 Getting back into anime — Bleach and Attack on Titan are some of my favorites  
+
 🧱 I like building things that are simple, useful, and easy to understand
 
 
