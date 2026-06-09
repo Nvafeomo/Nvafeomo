@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Nvafeomo Konneh
 
-I'm an aspring software or Data engineer passionate about building reliable backend systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work.
+I'm an aspring Eengineer passionate about building reliable systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work. I also have data engineering experience with python and databricks.
 
 ## What I'm Currently Working On
 - Developing **RimRun**, a **React Native** and **Supabase** app that helps players find basketball courts and connect with others (Testing Phase - Deploying soon).
 - Building **Jali**, a diaspora heritage platform that models family trees as graphs using **Neo4j** and **Spring Boot**, with an AI pipeline using **OpenAI Whisper** and **Claude API** to transcribe and structure oral histories.
 - Building **Pulse**, an event-driven notification platform using **AWS SNS**, **SQS**, and **Redis**, with automated deployment to **AWS ECS Fargate** via **Docker** and **GitHub Actions**.
+- Built **HealthFlow**, a CDC mortality **ETL** pipeline orchestrated with **Apache Airflow**, **PySpark** on **Databricks**, and loaded into **PostgreSQL**.
 ## Tools & Technologies
 **Languages:** Java, Python, JavaScript, TypeScript, SQL  
 
