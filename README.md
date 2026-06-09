@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nvafeomo Konneh
 
-I'm an aspring software engineer passionate about building reliable backend systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work.
+I'm an aspring software or Data engineer passionate about building reliable backend systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work.
 
 ## What I'm Currently Working On
 - Developing **RimRun**, a **React Native** and **Supabase** app that helps players find basketball courts and connect with others (Testing Phase - Deploying soon).
