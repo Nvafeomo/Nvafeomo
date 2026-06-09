@@ -16,7 +16,7 @@ I'm an aspring Eengineer passionate about building reliable systems and clean, r
 
 **DevOps:** Docker, Git, CI/CD, AWS, Render, Vercel  
 
-**Other:** Agile/Scrum, REST APIs, Linux
+**Other:** Agile/Scrum, REST APIs, Linux, Databricks
 
 ## A Bit About Me
 🏀 I like playing basketball and working out  
