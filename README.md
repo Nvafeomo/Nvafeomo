@@ -1,38 +1,40 @@
-# 👋 Hi, I'm Nvafeomo Konneh
+# Hi, I'm Nvafeomo Konneh 👋
 
-I'm an aspring Eengineer passionate about building reliable systems and clean, responsive user interfaces. I love turning ideas into production‑ready applications that make life easier for users. I usually use React, TypeScript, and Tailwind for Frontend work and Springboot or Express for backend work. I also have data engineering experience with python and databricks.
+I'm a software engineer focused on backend systems and cloud infrastructure. I like building reliable, production-ready applications that solve real problems, from APIs and event-driven pipelines to clean, responsive interfaces.
 
-## What I'm Currently Working On
-- Developing **RimRun**, a **React Native** and **Supabase** app that helps players find basketball courts and connect with others (Testing Phase - Deploying soon).
-- Building **Jali**, a diaspora heritage platform that models family trees as graphs using **Neo4j** and **Spring Boot**, with an AI pipeline using **OpenAI Whisper** and **Claude API** to transcribe and structure oral histories.
-- Building **Pulse**, an event-driven notification platform using **AWS SNS**, **SQS**, and **Redis**, with automated deployment to **AWS ECS Fargate** via **Docker** and **GitHub Actions**.
-- Built **HealthFlow**, a CDC mortality **ETL** pipeline orchestrated with **Apache Airflow**, **PySpark** on **Databricks**, and loaded into **PostgreSQL**.
-## Tools & Technologies
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
+Currently pursuing an **M.S. in Software Engineering at Penn State** and working as a **Software Engineering Intern at InterDigital**.
 
-**Frameworks:** Spring Boot, React, React Native, Express, TailwindCSS  
+## 🚀 Featured Projects
 
-**Databases:** PostgreSQL, Supabase  
+**[RimRun](https://apps.apple.com/us/app/rimrun/id6775095534)** · *React Native, TypeScript, Supabase, PostgreSQL*
+A mobile app on the App Store that helps players find 60k+ basketball courts and connect through direct, court, and group chats.
 
-**DevOps:** Docker, Git, CI/CD, AWS, Render, Vercel  
+**[Njeli](https://njeli.com/)** · *Java, Spring Boot, Neo4j, GraphQL, AWS*
+A genealogy platform that models family trees as graphs, with an AI pipeline (Whisper + Claude API) that turns recorded family stories into structured history.
 
-**Other:** Agile/Scrum, REST APIs, Linux, Databricks
+**[Pulse](https://github.com/Nvafeomo/Pulse)** · *Spring Boot, AWS (SNS, SQS, Lambda, ECS), Redis, Terraform*
+A real-time notification platform processing 1,000+ notifications per minute, with infrastructure defined as code and automated deployments.
 
-## A Bit About Me
-🏀 I like playing basketball and working out  
-
-🎧 I enjoy listening to audiobooks, reading fantasy novels, and I sometimes read nonfiction pieces. 
-
-🎴 Getting back into anime — Bleach and Attack on Titan are some of my favorites  
-
-🧱 I like building things that are simple, useful, and easy to understand
+**[Campus Spaces](https://workspace-management-capstone.vercel.app/)** · *React, TypeScript, PostgreSQL, AWS*
+A lab booking platform built with a 5-person Agile team, using database constraints to prevent double bookings.
 
 
-## How to Reach Me
-- Email: [nvafeomo05@gmail.com](mailto:nvafeomo05@gmail.com)  
-- LinkedIn: [Nvafeomo Konneh](https://www.linkedin.com/in/nvafeomo-konneh-a6a1a9367/)  
-- Portfolio: [nvafeomo.github.io/Portfolio-Website](https://portfolio-website-woad-zeta-36.vercel.app/)  
+## 🛠️ Tech Stack
 
----
+**Languages:** Java, Python, JavaScript, TypeScript, SQL
+**Backend:** Spring Boot, FastAPI, Express, REST APIs, GraphQL
+**Frontend:** React, React Native, Tailwind CSS
+**Cloud & Data:** AWS, PostgreSQL, Redis, Neo4j, Supabase
+**DevOps:** Docker, Terraform, GitHub Actions, CI/CD, Linux
 
-⭐ *Always learning, always building — currently focused on backend systems, cloud computing, and distributed systems.*
+## 🏀 Outside of Code
+
+- Playing basketball and working out
+- Listening to audiobooks and reading fantasy (plus some nonfiction)
+- Rewatching anime, with Bleach and Attack on Titan as favorites
+
+## 📫 Get in Touch
+
+- **Email:** [nvafeomo05@gmail.com](mailto:nvafeomo05@gmail.com)
+- **LinkedIn:** [Nvafeomo Konneh](https://www.linkedin.com/in/nvafeomo-konneh-a6a1a9367/)
+- **Portfolio:** [View my portfolio](https://portfolio-website-woad-zeta-36.vercel.app/)
